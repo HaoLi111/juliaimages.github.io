@@ -8,7 +8,7 @@ much (but not all) of the functionality in JuliaImages.
 Install Images via the [package manager](https://docs.julialang.org/en/v1/stdlib/Pkg/),
 
 ```julia
-(v1.0) pkg> add Images
+(v1.0) pkg> add Images,TestImages,ImageMagick
 ```
 
 This will also install many dependencies.
